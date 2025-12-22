@@ -1,13 +1,18 @@
-## 👩‍💻 About Me
+👩‍💻 About Me
 
-Hi! I'm **Hnin Wutt Yi**, a front-end developer learning **React**.  
-I enjoy building interactive web applications and improving my coding skills.  
-Currently, I'm focusing on **React, JavaScript, and front-end development**.  
+Hi! I’m Hnin Wutt Yi, a full-stack developer currently building real-world projects like Chatify, a real-time chat application.
 
-📌 **Technologies I'm Learning:**  
-- HTML, CSS, JavaScript  
-- React.js  
-- Git & GitHub  
+I work with React on the frontend and Node.js/Express on the backend, and I’m focused on writing understandable, maintainable code while strengthening my core JavaScript and system fundamentals.
 
-📫 **Let's Connect!**  
-GitHub: [HninWuttYi13](https://github.com/HninWuttYi13)
+I prefer learning by building complete systems—frontend, backend, and integration—rather than isolated tutorials.
+
+📌 Technologies I’m Using:
+
+Frontend: HTML5, CSS3, Tailwind, Zustand, JavaScript (ES6+), React.js
+
+Backend: Node.js, Express.js
+
+Real-time: Socket.IO
+Database: MongoDB, SQLite
+
+Tools: Git, GitHub
